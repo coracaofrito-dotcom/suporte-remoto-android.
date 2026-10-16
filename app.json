@@ -1,0 +1,13 @@
+
+{
+  "expo": {
+    "name": "Suporte Remoto",
+    "slug": "suporte-remoto-android",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.suporteremoto.app"
+    }
+  }
+}
